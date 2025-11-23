@@ -85,14 +85,7 @@ We acknowledge the following contributors for their work in developing this solu
 * **Team Members**: [Areeba Munir,Isra Rafique,Maryum Arshad,Noor ul ain]
 * **Mentors/Advisors**: [Dr Mehwish Fatima]
 
-
-
-
 ## Acknowledgements
 
 We would like to thank the SemEval 2026 organizers for providing the AmbiStory dataset and the opportunity to participate in this important task. Special thanks to the 
 Prolific participants whose ratings form the foundation of this challenge.
-
----
-
-Feel free to modify any parts of the README to align with your specific implementation details.
