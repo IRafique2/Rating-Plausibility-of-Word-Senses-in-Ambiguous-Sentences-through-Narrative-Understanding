@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ## Contribution
 
-We acknowledge the following contributors for their work in developing this solution:
+The following  are the contributors for this work in developing this solution:
 
 * **Team Members**: [Areeba Munir,Isra Rafique,Maryum Arshad,Noor ul ain]
 * **Mentors/Advisors**: [Dr Mehwish Fatima]
