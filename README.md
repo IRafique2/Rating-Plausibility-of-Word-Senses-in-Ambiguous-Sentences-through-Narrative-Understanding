@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 The following  are the contributors for this work in developing this solution:
 
-* **Team Members**: [Areeba Munir,Isra Rafique,Maryum Arshad,Noor ul ain]
+* **Team Members**: [Areeba Munir,Isra Rafique,Maryam Arshad,Noor ul ain]
 * **Mentors/Advisors**: [Dr Mehwish Fatima]
 
 ## Acknowledgements
