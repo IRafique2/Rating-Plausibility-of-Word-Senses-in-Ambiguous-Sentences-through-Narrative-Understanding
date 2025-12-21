@@ -6,3 +6,10 @@ scipy
 nltk
 sentence-transformers
 scikit-learn
+transformers
+accelerate
+torch 
+bitsandbytes
+accelerate
+
+!pip install -q peft datasets trl
