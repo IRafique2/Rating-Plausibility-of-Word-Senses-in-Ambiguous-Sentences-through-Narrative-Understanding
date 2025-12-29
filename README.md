@@ -208,5 +208,3 @@ pip install -r requirements.txt
 We thank the **SemEval 2026 organizers** for releasing the AmbiStory dataset and enabling research on narrative-based word sense plausibility. Special appreciation goes to the **Prolific annotators** whose human judgments form the backbone of this task.
 
 
-* Write a **short “Reproducibility” section**
-* Optimize it for **leaderboard submission clarity**
